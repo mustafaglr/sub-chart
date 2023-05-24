@@ -2,4 +2,4 @@ example-chart:
   image:
     repository: abccccc
   autoscaling:
-    enabled: true
+    enabled: false
