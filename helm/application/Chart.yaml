@@ -25,4 +25,4 @@ appVersion: "1.1.0"
 dependencies:
 - name: example-chart
   version: "0.1.0"
-  repository: "http://chartmuseum.apps.prod.swo.local"
+  repository: "@chartmuseum"
